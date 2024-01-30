@@ -1,0 +1,2 @@
+# DATABASE PROGRAMMING
+ elcome to my database programming repository! This repository is a collection of resources, code samples, and projects related to database programming. This repository covers various aspects of database programming, including:  SQL fundamentals and advanced queries Database design principles and best practices Data modeling and normalization Stored procedures, triggers, and functions Indexing and optimization techniques Database security and access control
